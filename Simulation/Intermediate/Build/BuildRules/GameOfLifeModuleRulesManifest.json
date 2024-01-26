@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Users\\zhaox\\Desktop\\population-simulation\\Simulation\\Source\\GameOfLife\\GameOfLife.Build.cs",
-		"C:\\Users\\zhaox\\Desktop\\population-simulation\\Simulation\\Source\\GameOfLife.Target.cs",
-		"C:\\Users\\zhaox\\Desktop\\population-simulation\\Simulation\\Source\\GameOfLifeEditor.Target.cs"
-	],
-	"EngineVersion": "5.3.2"
-}
