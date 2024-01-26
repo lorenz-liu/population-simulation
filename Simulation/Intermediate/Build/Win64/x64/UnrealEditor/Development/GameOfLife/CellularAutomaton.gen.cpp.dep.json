@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zhaox\\desktop\\game-of-life\\intermediate\\build\\win64\\unrealeditor\\inc\\gameoflife\\uht\\cellularautomaton.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zhaox\\desktop\\game-of-life\\intermediate\\build\\win64\\x64\\gameoflifeeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\zhaox\\desktop\\game-of-life\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameoflife\\definitions.gameoflife.h",
+            "c:\\users\\zhaox\\desktop\\game-of-life\\source\\gameoflife\\public\\cellularautomaton.h",
+            "c:\\users\\zhaox\\desktop\\game-of-life\\source\\gameoflife\\public\\cell.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\paperspritecomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealeditor\\inc\\paper2d\\uht\\paperspritecomponent.generated.h",
+            "c:\\users\\zhaox\\desktop\\game-of-life\\intermediate\\build\\win64\\unrealeditor\\inc\\gameoflife\\uht\\cell.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmappingcontext.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedactionkeymapping.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputaction.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedactionkeymapping.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmappingcontext.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedinputcomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputcomponent.generated.h",
+            "c:\\users\\zhaox\\desktop\\game-of-life\\intermediate\\build\\win64\\unrealeditor\\inc\\gameoflife\\uht\\cellularautomaton.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

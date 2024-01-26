@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\zhaox\\Desktop\\game-of-life\\Source\\GameOfLife\\GameOfLife.Build.cs",
+		"C:\\Users\\zhaox\\Desktop\\game-of-life\\Source\\GameOfLife.Target.cs",
+		"C:\\Users\\zhaox\\Desktop\\game-of-life\\Source\\GameOfLifeEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

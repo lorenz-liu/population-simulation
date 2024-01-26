@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zhaox\\desktop\\game-of-life\\source\\gameoflife\\gameoflife.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zhaox\\desktop\\game-of-life\\intermediate\\build\\win64\\x64\\gameoflifeeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\zhaox\\desktop\\game-of-life\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameoflife\\definitions.gameoflife.h",
+            "c:\\users\\zhaox\\desktop\\game-of-life\\source\\gameoflife\\gameoflife.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
