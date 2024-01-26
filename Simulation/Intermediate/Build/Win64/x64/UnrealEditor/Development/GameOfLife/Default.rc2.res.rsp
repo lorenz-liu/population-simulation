@@ -72,9 +72,7 @@
 /DBUILT_FROM_CHANGELIST=29314046
 /DBUILD_VERSION=++UE5+Release-5.3-CL-29314046
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
-/DPROJECT_COMPANY_NAME=Vicen-te
-/DPROJECT_COPYRIGHT_STRING="Copyright (c) 2023 Vicente Brisa Saez (Github: Vicen-te)"
-/DPROJECT_PRODUCT_NAME="Game of Life"
+/DPROJECT_COMPANY_NAME=GitLorenzL
 /DPROJECT_PRODUCT_IDENTIFIER=GameOfLife
-/fo "C:\Users\zhaox\Desktop\game-of-life\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameOfLife\Default.rc2.res"
+/fo "C:\Users\zhaox\Desktop\population-simulation\Simulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameOfLife\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
