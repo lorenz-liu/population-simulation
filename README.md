@@ -1,4 +1,4 @@
-# Conway's Game of Life Simulation
+# Population Simulation
 
 This project implements Conway's Game of Life, a cellular automaton conceptualized by John Conway, using Unreal Engine 5.3.2 with C++. The game serves as a zero-player simulation depicting the evolution of a population of cells, each classified as either alive or dead.
 
