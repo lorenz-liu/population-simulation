@@ -1,5 +1,3 @@
-/// Copyright (c) 2023 Vicente Brisa Saez (Github: Vicen-te)
-
 #pragma once
 
 #include "CoreMinimal.h"

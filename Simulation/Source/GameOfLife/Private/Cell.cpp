@@ -1,6 +1,3 @@
-/// Copyright (c) 2023 Vicente Brisa Saez (Github: Vicen-te)
-
-
 #include "Cell.h"
 #include "PaperSprite.h"
 
